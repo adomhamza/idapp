@@ -1,6 +1,6 @@
 # idapp
 
-A Flutter IDApp project that displays a profile picture, Name, Current Ninja Level and Mail Address.
+A Flutter Stateless project that displays a profile picture, Name, Current Ninja Level and Mail Address.
 
 ## Getting Started
 
