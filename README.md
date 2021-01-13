@@ -4,9 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for learning Flutter application and the Dart Language.
 
-A few resources to get you started if this is your first Flutter project:
+This project was built following tutorials from [The Net Ninja Youtube Channel](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+
+A few resources to get you started :
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
